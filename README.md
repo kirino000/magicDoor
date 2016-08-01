@@ -1,0 +1,2 @@
+# magicDoor
+magicDoorCode
